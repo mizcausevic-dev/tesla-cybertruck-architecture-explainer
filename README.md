@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/tesla-cybertruck-architecture-explainer/
 
+Repository: https://github.com/mizcausevic-dev/tesla-cybertruck-architecture-explainer
+
 ## What this is
 
 An interactive anatomy plate for Tesla Cybertruck Architecture. Play, scrub, or jump the five stages. The same frame always draws the same picture.
